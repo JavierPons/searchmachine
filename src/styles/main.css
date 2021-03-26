@@ -3,6 +3,9 @@
     text-align: center;
     top: 100px;
     position: relative;
-   
-    
+}
+
+.items{
+    position: relative;
+    top: 80px;
 }
